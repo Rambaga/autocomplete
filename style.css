@@ -10,6 +10,14 @@ li{
 	list-style: none;
 	cursor: pointer;
 }
+#logo{
+	margin: 50px 0 0 0;
+	padding: 0;
+}
+#logo>h1{
+	text-align: center;
+	color: grey;
+}
 #wrapper{
 	position: absolute;
 	top: 30%;
